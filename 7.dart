@@ -7,3 +7,4 @@ void main() {
   print("\nAlgarismo da cada das dezenas: ${d}");
   print("\n");
 }
+//conceitos

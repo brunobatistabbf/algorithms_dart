@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:math';
 import 'dart:convert';
-
+//conceitos
 void main() {
   print("\nDigite a primeira palavra: ");
   String? first = stdin.readLineSync();

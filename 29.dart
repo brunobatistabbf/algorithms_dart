@@ -1,5 +1,5 @@
 import 'dart:io';
-
+//conceitos
 void main() {
   print("Digite Numerador: ");
   int? num = int.parse(stdin.readLineSync()!);

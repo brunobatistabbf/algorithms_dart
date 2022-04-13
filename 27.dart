@@ -1,5 +1,5 @@
 import 'dart:io';
-
+//conceitos
 void main() {
   print("Digite o valor da prestação: ");
   double valor = double.parse(stdin.readLineSync()!);

@@ -1,5 +1,5 @@
 import 'dart:io';
-
+//conceitos
 void main() {
   print("Digite o valor da temperatura em graus centigrados: ");
   double c = double.parse(stdin.readLineSync()!);

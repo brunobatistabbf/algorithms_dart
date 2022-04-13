@@ -1,5 +1,5 @@
 import 'dart:io';
-
+//conceitos
 void main() {
   print("Entre com 1 numero: ");
   double a = double.parse(stdin.readLineSync()!);

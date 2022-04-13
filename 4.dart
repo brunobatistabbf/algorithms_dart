@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:math';
 import 'dart:convert';
-
+//conceitos
 void main() {
   print("raiz de 64: ${sqrt(64)} ");
   print("Potencia: ${pow(10, 2)}");

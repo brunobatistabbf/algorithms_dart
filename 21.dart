@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'dart:math';
-
+//conceitos
 void main() {
   print("Digite numero: ");
   var num = int.parse(stdin.readLineSync()!);

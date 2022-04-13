@@ -1,5 +1,5 @@
 import 'dart:io';
-
+//conceitos
 void main() {
   print("Entre com um numero de 3 digitos: ");
   var numero = stdin.readLineSync()!;

@@ -1,5 +1,5 @@
 import 'dart:io';
-
+//conceitos
 void main() {
   print("Horas Trabalhadas: ");
   double na = double.parse(stdin.readLineSync()!);

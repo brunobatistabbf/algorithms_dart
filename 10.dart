@@ -6,3 +6,4 @@ void main() {
   print("\n A média aritmetica e: ${valor}");
   print("\n");
 }
+//conceitos
