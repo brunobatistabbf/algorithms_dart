@@ -1,5 +1,4 @@
 import 'dart:io';
-//parou no 195
 void main(List<String> args) {
   int produto = 1;
   print("Digite um numeo: ");
